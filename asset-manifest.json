@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/checkpoint-state.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/checkpoint-state.git/static/js/main.384a6da9.chunk.js",
+    "main.js.map": "/checkpoint-state.git/static/js/main.384a6da9.chunk.js.map",
+    "runtime-main.js": "/checkpoint-state.git/static/js/runtime-main.396d76aa.js",
+    "runtime-main.js.map": "/checkpoint-state.git/static/js/runtime-main.396d76aa.js.map",
+    "static/js/2.b1e57966.chunk.js": "/checkpoint-state.git/static/js/2.b1e57966.chunk.js",
+    "static/js/2.b1e57966.chunk.js.map": "/checkpoint-state.git/static/js/2.b1e57966.chunk.js.map",
+    "index.html": "/checkpoint-state.git/index.html",
+    "precache-manifest.5c8ddc5d49d7707fde62147a06b9df1d.js": "/checkpoint-state.git/precache-manifest.5c8ddc5d49d7707fde62147a06b9df1d.js",
+    "service-worker.js": "/checkpoint-state.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/checkpoint-state.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b1e57966.chunk.js.LICENSE.txt": "/checkpoint-state.git/static/js/2.b1e57966.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.396d76aa.js",
+    "static/js/2.b1e57966.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.384a6da9.chunk.js"
+  ]
+}
